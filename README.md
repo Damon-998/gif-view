@@ -1,4 +1,4 @@
-# gif-view
+## gif-view
 iOS
 播放gif图片的三种方法：
 1>Webview
